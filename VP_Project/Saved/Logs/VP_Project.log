@@ -971,3 +971,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.21-23.45.31:845][745]LogSavePackage: Moving '../../../../../../Users/trist/Documents/GitHub/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon4B932B2B4CE27D19D20A5E93ED36A1B8.tmp' to '../../../../../../Users/trist/Documents/GitHub/UnrealVPTeam15_Repository/VP_Project/Content/Classroom/Maps/forenoon.umap'
 [2021.11.21-23.45.31:871][745]AssetCheck: New page: Asset Save: forenoon
 [2021.11.21-23.45.31:871][745]LogContentValidation: Display: Validating World /Game/Classroom/Maps/forenoon.forenoon
+[2021.11.21-23.47.16:682][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Poster_03_SM)
+[2021.11.21-23.48.05:660][447]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2021.11.21-23.57.53:522][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.21-23.57.53:656][485]LogSavePackage: Moving '../../../../../../Users/trist/Documents/GitHub/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon_Auto1B04A7A7F422809D4B3933396D808D5ED.tmp' to '../../../../../../Users/trist/Documents/GitHub/UnrealVPTeam15_Repository/VP_Project/Saved/Autosaves/Game/Classroom/Maps/forenoon_Auto1.umap'
+[2021.11.21-23.57.53:660][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Classroom/Maps/forenoon' took 0.144
+[2021.11.21-23.57.53:660][485]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2021.11.21-23.57.58:237][ 27]LogSlate: Took 0.001313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.21-23.58.07:407][ 27]Cmd: DUPLICATE
+[2021.11.21-23.58.07:407][ 27]Cmd: ACTOR DUPLICATE
+[2021.11.21-23.58.15:141][866]Cmd: DUPLICATE
+[2021.11.21-23.58.15:141][866]Cmd: ACTOR DUPLICATE
+[2021.11.21-23.58.48:440][555]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2021.11.21-23.58.53:486][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_q)
+[2021.11.21-23.58.54:376][254]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2021.11.21-23.59.02:814][257]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight15)
+[2021.11.21-23.59.36:295][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.21-23.59.36:429][144]LogSavePackage: Moving '../../../../../../Users/trist/Documents/GitHub/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon64119BDB423D140167479CABAB7AD7CB.tmp' to '../../../../../../Users/trist/Documents/GitHub/UnrealVPTeam15_Repository/VP_Project/Content/Classroom/Maps/forenoon.umap'
+[2021.11.21-23.59.36:452][144]AssetCheck: New page: Asset Save: forenoon
+[2021.11.21-23.59.36:452][144]LogContentValidation: Display: Validating World /Game/Classroom/Maps/forenoon.forenoon
