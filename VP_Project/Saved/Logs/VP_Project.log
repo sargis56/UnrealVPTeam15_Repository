@@ -3351,3 +3351,1082 @@ Script Stack (0 frames):
 [2021.11.27-00.54.12:015][469]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/MasterSequence1D93CC98405CB28BAB522E82BCA5D1CB.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/MasterSequence.uasset'
 [2021.11.27-00.54.12:029][469]AssetCheck: New page: Asset Save: MasterSequence
 [2021.11.27-00.54.12:029][469]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/MasterSequence.MasterSequence
+[2021.11.27-00.58.03:452][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.11.27-00.58.03:478][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Classroom/Maps/forenoon' took 0.071
+[2021.11.27-00.58.03:478][289]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics2/Shots/SequenceShot1_6] ([1] browsable assets)...
+[2021.11.27-00.58.03:478][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics2/Shots/SequenceShot1_6]
+[2021.11.27-00.58.03:491][289]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_6_Auto0E0E4C9404F756B6F906BFDA1B428C0AB.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Autosaves/Game/Cinematics2/Shots/SequenceShot1_6_Auto0.uasset'
+[2021.11.27-00.58.03:494][289]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.11.27-01.41.52:917][943]Cmd: TRANSACTION UNDO
+[2021.11.27-01.41.52:917][943]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-01.41.58:496][463]Cmd: TRANSACTION UNDO
+[2021.11.27-01.41.58:497][463]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-01.42.04:821][978]Cmd: TRANSACTION UNDO
+[2021.11.27-01.42.04:822][978]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-01.42.53:169][ 36]Cmd: TRANSACTION UNDO
+[2021.11.27-01.42.53:169][ 36]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-01.42.56:523][328]Cmd: TRANSACTION UNDO
+[2021.11.27-01.42.56:523][328]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-01.43.03:782][956]Cmd: TRANSACTION UNDO
+[2021.11.27-01.43.03:783][956]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-01.43.32:051][938]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.11.27-01.43.32:071][938]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Classroom/Maps/forenoon' took 0.310
+[2021.11.27-01.43.32:073][938]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics2/Shots/SequenceShot1_17] ([1] browsable assets)...
+[2021.11.27-01.43.32:073][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics2/Shots/SequenceShot1_17]
+[2021.11.27-01.43.32:087][938]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_17_Auto120553C28460472E5D85C51901DB36498.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Autosaves/Game/Cinematics2/Shots/SequenceShot1_17_Auto1.uasset'
+[2021.11.27-01.43.32:090][938]LogFileHelpers: Auto-saving content packages took 0.018
+[2021.11.27-01.47.27:632][563]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_14.SequenceShot1_14
+[2021.11.27-01.48.00:634][192]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/MasterSequence.MasterSequence
+[2021.11.27-01.48.44:119][625]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_7.SequenceShot1_7
+[2021.11.27-01.49.26:054][313]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_17.SequenceShot1_17
+[2021.11.27-01.50.03:912][424]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blackboard1)
+[2021.11.27-01.50.49:958][237]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_4.SequenceShot1_4
+[2021.11.27-01.50.53:823][568]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_2.SequenceShot1_2
+[2021.11.27-01.50.56:390][801]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_5.SequenceShot1_5
+[2021.11.27-01.52.49:122][784]LogSlate: Window 'Render Movie Settings' being destroyed
+[2021.11.27-01.53.11:062][794]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_15.SequenceShot1_15
+[2021.11.27-01.53.52:853][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.11.27-01.53.54:559][779]LogSlate: Window 'Save Content' being destroyed
+[2021.11.27-01.53.54:623][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.27-01.53.54:801][779]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon1D7ADCD44BE4FD2700EDD287851C6E68.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Classroom/Maps/forenoon.umap'
+[2021.11.27-01.53.54:815][779]LogFileHelpers: Saving map 'forenoon' took 0.216
+[2021.11.27-01.53.54:828][779]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_14E3A931C74CB622976CA1188843D54F7E.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShot1_14.uasset'
+[2021.11.27-01.53.54:841][779]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_154903217A496C18B3DCC083911D79D9C2.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShot1_15.uasset'
+[2021.11.27-01.53.54:858][779]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_179F6849AE4DBF9C362483568948726097.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShot1_17.uasset'
+[2021.11.27-01.53.54:873][779]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_67D960E5A45231DA8960D66A95456F787.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShot1_6.uasset'
+[2021.11.27-01.53.54:888][779]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_75104F00A4E4AA4CA4E15EFA18986C7B1.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShot1_7.uasset'
+[2021.11.27-01.53.54:903][779]LogTemp: Starting movie scene capture...
+[2021.11.27-01.53.54:922][779]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.27-01.53.54:922][779]LogContentValidation: Display: Validating World /Game/Classroom/Maps/forenoon.forenoon
+[2021.11.27-01.53.54:923][779]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShot1_14.SequenceShot1_14
+[2021.11.27-01.53.54:923][779]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShot1_15.SequenceShot1_15
+[2021.11.27-01.53.54:923][779]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShot1_6.SequenceShot1_6
+[2021.11.27-01.53.54:923][779]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShot1_17.SequenceShot1_17
+[2021.11.27-01.53.54:923][779]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShot1_7.SequenceShot1_7
+[2021.11.27-01.53.54:927][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.27-01.53.54:927][779]PIE: New page: PIE session: forenoon (Nov 26, 2021, 3:53:54 PM)
+[2021.11.27-01.53.54:927][779]LogPlayLevel: Creating play world package: /Game/Classroom/Maps/UEDPIE_0_forenoon
+[2021.11.27-01.53.54:953][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026475s)
+[2021.11.27-01.53.54:955][779]LogAIModule: Creating AISystem for world forenoon
+[2021.11.27-01.53.54:955][779]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2021.11.27-01.53.54:955][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Classroom/Maps/forenoon.forenoon to /Game/Classroom/Maps/UEDPIE_0_forenoon.forenoon (0.028224s)
+[2021.11.27-01.53.54:978][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.11.27-01.53.54:978][779]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.27-01.53.54:978][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.27-01.53.54:978][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.27-01.53.54:978][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.27-01.53.54:978][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.27-01.53.54:978][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.27-01.53.54:978][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.27-01.53.54:979][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.27-01.53.54:979][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.27-01.53.54:979][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.27-01.53.54:979][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.27-01.53.54:979][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.27-01.53.54:979][779]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.27-01.53.54:986][779]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.53.54:986][779]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.53.54:986][779]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.53.54:986][779]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.53.54:986][779]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.53.54:986][779]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.53.54:986][779]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.53.54:986][779]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.53.55:014][779]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G633 Gaming Headset)
+[2021.11.27-01.53.55:015][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.27-01.53.55:015][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.27-01.53.55:015][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.27-01.53.55:016][779]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.27-01.53.55:016][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.27-01.53.55:016][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.27-01.53.55:017][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.27-01.53.55:017][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.27-01.53.55:017][779]LogInit: FAudioDevice initialized.
+[2021.11.27-01.53.55:018][779]LogAudio: Display: Audio Device (ID: 3) registered with world 'forenoon'.
+[2021.11.27-01.53.55:018][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.27-01.53.55:075][779]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.11.27-01.53.55:075][779]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.11.27-01.53.55:075][779]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.27-01.53.55:075][779]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.27-01.53.55:076][779]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.11.27-01.53.55:076][779]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.27-01.53.55:077][779]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.11.27-01.53.55:077][779]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.11.27-01.53.55:077][779]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:4]]
+[2021.11.27-01.53.55:078][779]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.11.27-01.53.55:078][779]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.11.27-01.53.55:084][779]LogLoad: Game class is 'GameModeBase'
+[2021.11.27-01.53.55:096][779]LogWorld: Bringing World /Game/Classroom/Maps/UEDPIE_0_forenoon.forenoon up for play (max tick rate 0) at 2021.11.26-20.53.55
+[2021.11.27-01.53.55:097][779]LogWorld: Bringing up level for play took: 0.012719
+[2021.11.27-01.53.55:097][779]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.11.27-01.53.55:107][779]PIE: Server logged in
+[2021.11.27-01.53.55:111][779]PIE: Play in editor total start time 0.187 seconds.
+[2021.11.27-01.53.55:302][780]LogRenderer: Reallocating scene render targets to support 2556x1440 Format 10 NumSamples 1 (Frame:819679).
+[2021.11.27-01.53.55:975][813]LogRenderer: Reallocating scene render targets to support 5108x2876 Format 10 NumSamples 1 (Frame:1).
+[2021.11.27-01.54.03:875][815]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.03:888][815]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.03:888][815]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.03:888][815]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.03:888][815]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.03:888][815]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.03:888][815]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.03:888][815]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.03:888][815]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.03:928][815]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.03:972][815]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.03:972][815]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.03:972][815]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.03:972][815]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.03:972][815]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.03:972][815]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.03:972][815]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.03:972][815]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.13:396][819]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.13:407][819]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.13:407][819]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.13:407][819]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.13:407][819]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.13:407][819]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.13:407][819]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.13:407][819]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.13:408][819]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.13:442][819]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.13:453][819]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.13:453][819]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.13:453][819]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.13:453][819]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.13:453][819]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.13:453][819]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.13:453][819]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.13:453][819]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.15:848][820]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.15:859][820]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.15:859][820]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.15:860][820]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.15:860][820]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.15:860][820]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.15:860][820]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.15:860][820]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.15:860][820]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.15:895][820]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.15:907][820]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.15:907][820]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.15:907][820]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.15:907][820]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.15:907][820]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.15:907][820]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.15:907][820]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.15:907][820]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.18:334][821]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.18:346][821]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.18:346][821]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.18:347][821]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.18:347][821]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.18:347][821]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.18:347][821]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.18:347][821]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.18:347][821]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.18:384][821]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.18:397][821]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.18:398][821]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.18:398][821]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.18:398][821]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.18:398][821]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.18:398][821]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.18:398][821]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.18:398][821]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.41:159][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_forenoon_RefProperty". Blueprint:  forenoon Function:  Execute Ubergraph Forenoon Graph:  EventGraph Node:  AddActorWorldRotation
+[2021.11.27-01.54.41:450][835]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.41:462][835]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.41:463][835]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.41:463][835]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.41:463][835]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.41:463][835]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.41:463][835]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.41:463][835]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.41:463][835]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.41:497][835]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.41:509][835]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.41:509][835]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.41:509][835]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.41:509][835]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.41:509][835]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.41:509][835]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.41:509][835]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.41:509][835]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.52:514][842]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.52:525][842]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.52:525][842]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.52:525][842]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.52:525][842]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.52:525][842]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.52:525][842]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.52:526][842]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.52:526][842]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.54.52:560][842]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.54.52:571][842]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.54.52:571][842]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.54.52:571][842]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.54.52:571][842]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.54.52:571][842]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.54.52:571][842]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.54.52:571][842]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.54.52:571][842]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.09:615][853]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.09:626][853]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.09:626][853]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.09:626][853]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.09:626][853]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.09:626][853]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.09:626][853]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.09:626][853]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.09:626][853]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.09:662][853]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.09:673][853]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.09:673][853]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.09:674][853]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.09:674][853]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.09:674][853]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.09:674][853]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.09:674][853]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.09:674][853]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.12:693][855]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.12:708][855]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.12:708][855]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.12:708][855]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.12:708][855]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.12:708][855]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.12:708][855]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.12:708][855]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.12:708][855]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.12:739][855]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.12:750][855]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.12:750][855]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.12:750][855]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.12:750][855]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.12:750][855]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.12:750][855]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.12:751][855]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.12:751][855]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.17:312][858]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.17:323][858]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.17:324][858]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.17:324][858]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.17:324][858]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.17:324][858]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.17:324][858]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.17:324][858]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.17:324][858]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.17:394][858]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.17:407][858]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.17:407][858]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.17:407][858]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.17:407][858]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.17:407][858]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.17:407][858]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.17:407][858]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.17:407][858]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.18:569][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_forenoon_RefProperty". Blueprint:  forenoon Function:  Execute Ubergraph Forenoon Graph:  EventGraph Node:  AddActorWorldRotation
+[2021.11.27-01.55.21:950][861]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.21:962][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.21:962][861]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.21:962][861]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.21:962][861]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.21:962][861]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.21:962][861]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.21:962][861]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.21:962][861]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.21:993][861]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.22:004][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.22:004][861]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.22:004][861]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.22:004][861]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.22:004][861]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.22:004][861]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.22:004][861]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.22:005][861]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.28:227][865]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.28:240][865]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.28:240][865]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.28:240][865]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.28:240][865]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.28:240][865]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.28:240][865]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.28:240][865]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.28:240][865]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.28:274][865]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.28:287][865]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.28:288][865]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.28:288][865]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.28:288][865]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.28:288][865]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.28:288][865]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.28:288][865]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.28:288][865]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.32:954][868]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.32:965][868]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.32:966][868]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.32:966][868]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.32:966][868]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.32:966][868]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.32:966][868]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.32:966][868]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.32:966][868]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.33:001][868]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.33:012][868]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.33:012][868]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.33:012][868]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.33:012][868]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.33:012][868]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.33:012][868]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.33:012][868]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.33:012][868]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.37:737][871]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.37:748][871]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.37:748][871]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.37:748][871]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.37:748][871]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.37:748][871]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.37:748][871]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.37:749][871]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.37:749][871]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.37:784][871]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.37:796][871]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.37:796][871]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.37:796][871]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.37:796][871]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.37:796][871]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.37:796][871]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.37:796][871]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.37:796][871]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.39:282][872]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.39:293][872]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.39:293][872]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.39:293][872]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.39:293][872]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.39:293][872]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.39:293][872]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.39:293][872]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.39:293][872]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.42:461][874]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.42:472][874]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.42:472][874]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.42:472][874]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.42:472][874]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.42:472][874]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.42:472][874]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.42:472][874]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.42:472][874]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.42:503][874]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.42:514][874]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.42:514][874]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.42:514][874]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.42:514][874]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.42:514][874]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.42:514][874]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.42:514][874]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.42:515][874]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.45:519][876]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.45:531][876]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.45:531][876]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.45:531][876]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.45:531][876]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.45:531][876]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.45:531][876]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.45:531][876]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.45:531][876]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.45:565][876]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.45:577][876]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.45:577][876]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.45:577][876]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.45:577][876]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.45:577][876]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.45:577][876]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.45:577][876]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.45:577][876]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.56:109][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_forenoon_RefProperty". Blueprint:  forenoon Function:  Execute Ubergraph Forenoon Graph:  EventGraph Node:  AddActorWorldRotation
+[2021.11.27-01.55.56:409][883]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.56:422][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.56:422][883]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.56:422][883]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.56:422][883]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.56:422][883]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.56:422][883]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.56:422][883]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.56:423][883]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.55.56:453][883]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.55.56:464][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.55.56:464][883]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.55.56:464][883]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.55.56:464][883]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.55.56:464][883]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.55.56:464][883]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.55.56:464][883]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.55.56:464][883]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.56.01:419][886]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.56.01:431][886]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.56.01:431][886]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.56.01:431][886]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.56.01:431][886]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.56.01:431][886]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.56.01:431][886]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.56.01:431][886]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.56.01:431][886]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.56.01:466][886]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.56.01:477][886]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.56.01:477][886]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.56.01:477][886]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.56.01:477][886]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.56.01:477][886]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.56.01:477][886]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.56.01:477][886]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.56.01:477][886]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.56.34:673][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_forenoon_RefProperty". Blueprint:  forenoon Function:  Execute Ubergraph Forenoon Graph:  EventGraph Node:  AddActorWorldRotation
+[2021.11.27-01.56.50:615][918]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.56.50:629][918]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.56.50:629][918]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.56.50:629][918]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.56.50:629][918]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.56.50:629][918]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.56.50:629][918]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.56.50:629][918]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.56.50:629][918]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.56.50:665][918]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.56.50:677][918]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.56.50:677][918]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.56.50:677][918]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.56.50:677][918]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.56.50:677][918]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.56.50:677][918]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.56.50:677][918]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.56.50:677][918]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.57.08:991][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_forenoon_RefProperty". Blueprint:  forenoon Function:  Execute Ubergraph Forenoon Graph:  EventGraph Node:  AddActorWorldRotation
+[2021.11.27-01.57.10:723][932]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.57.10:735][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.57.10:735][932]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.57.10:735][932]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.57.10:735][932]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.57.10:735][932]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.57.10:735][932]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.57.10:735][932]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.57.10:735][932]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.57.10:770][932]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.57.10:780][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.57.10:780][932]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.57.10:780][932]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.57.10:780][932]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.57.10:780][932]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.57.10:780][932]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.57.10:780][932]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.57.10:780][932]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.57.19:176][938]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.57.19:189][938]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.57.19:189][938]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.57.19:189][938]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.57.19:189][938]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.57.19:189][938]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.57.19:189][938]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.57.19:189][938]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.57.19:189][938]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.57.19:220][938]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.57.19:230][938]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.57.19:230][938]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.57.19:230][938]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.57.19:231][938]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.57.19:231][938]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.57.19:231][938]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.57.19:231][938]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.57.19:231][938]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.57.41:901][954]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.57.41:914][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.57.41:914][954]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.57.41:914][954]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.57.41:914][954]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.57.41:914][954]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.57.41:914][954]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.57.41:914][954]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.57.41:914][954]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.57.41:955][954]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.57.41:967][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.57.41:967][954]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.57.41:967][954]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.57.41:967][954]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.57.41:967][954]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.57.41:967][954]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.57.41:967][954]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.57.41:967][954]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.57.43:063][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_forenoon_RefProperty". Blueprint:  forenoon Function:  Execute Ubergraph Forenoon Graph:  EventGraph Node:  AddActorWorldRotation
+[2021.11.27-01.58.11:322][974]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.58.11:345][974]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.58.11:345][974]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.58.11:345][974]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.58.11:345][974]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.58.11:345][974]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.58.11:345][974]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.58.11:345][974]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.58.11:345][974]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.58.11:432][974]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.58.11:447][974]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.58.11:447][974]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.58.11:447][974]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.58.11:447][974]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.58.11:447][974]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.58.11:447][974]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.58.11:447][974]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.58.11:447][974]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.58.15:905][977]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.58.15:925][977]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.58.15:925][977]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.58.15:925][977]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.58.15:925][977]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.58.15:925][977]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.58.15:925][977]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.58.15:925][977]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.58.15:925][977]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.58.15:976][977]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-01.58.15:990][977]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-01.58.15:990][977]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-01.58.15:990][977]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-01.58.15:990][977]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-01.58.15:990][977]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-01.58.15:990][977]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-01.58.15:990][977]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-01.58.15:990][977]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-01.58.18:703][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_forenoon_RefProperty". Blueprint:  forenoon Function:  Execute Ubergraph Forenoon Graph:  EventGraph Node:  AddActorWorldRotation
+[2021.11.27-01.58.24:332][983]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.27-01.58.24:332][983]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.27-01.58.24:332][983]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.27-01.58.24:332][983]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.27-01.58.24:333][983]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.27-01.58.24:333][983]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.27-01.58.24:334][983]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.27-01.58.24:335][983]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.27-01.58.24:335][983]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.27-01.58.24:335][983]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.27-01.58.24:335][983]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.11.27-01.58.24:336][983]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.27-01.58.24:336][983]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.27-01.58.24:336][983]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.27-01.58.24:557][983]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:557][983]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.27-01.58.24:558][983]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.27-01.58.24:558][983]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.27-01.58.24:558][983]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.27-01.58.24:558][983]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.27-01.58.24:559][983]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.27-01.58.24:560][983]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.27-01.58.24:560][983]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '1000'
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.27-01.58.24:560][983]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.27-01.58.24:560][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.11.27-01.58.24:561][983]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.27-01.58.24:561][983]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.27-01.58.24:561][983]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.27-01.58.26:436][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.27-01.58.26:436][983]LogWorld: BeginTearingDown for /Game/Classroom/Maps/UEDPIE_0_forenoon
+[2021.11.27-01.58.26:436][983]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2021.11.27-01.58.27:660][983]LogWorld: UWorld::CleanupWorld for forenoon, bSessionEnded=true, bCleanupResources=true
+[2021.11.27-01.58.27:671][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.27-01.58.27:674][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.27-01.58.27:680][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.27-01.58.27:707][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.27-01.58.27:709][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.27-01.58.27:731][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.27-01.58.28:102][983]LogTemp: Movie Capture finished. Success: 1
+[2021.11.27-01.58.28:420][984]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.11.27-01.58.53:950][ 62]LogRenderer: Reallocating scene render targets to support 5108x2876 Format 10 NumSamples 1 (Frame:819681).
+[2021.11.27-01.58.56:423][ 67]LogSlate: Window 'Message Log' being destroyed
+[2021.11.27-01.58.56:757][ 67]LogSlate: Window 'Message Log' being destroyed
+[2021.11.27-01.59.01:670][203]LogSlate: Window 'Render Movie Settings' being destroyed
+[2021.11.27-02.00.08:549][403]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.00.11:460][424]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.00.16:262][539]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.00.57:319][959]Cmd: TRANSACTION UNDO
+[2021.11.27-02.00.57:319][959]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-02.01.07:769][104]Cmd: TRANSACTION UNDO
+[2021.11.27-02.01.07:769][104]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-02.01.20:357][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.01.33:658][682]Cmd: DELETE
+[2021.11.27-02.01.33:683][682]Cmd: ACTOR DELETE
+[2021.11.27-02.01.33:799][682]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.11.27-02.01.33:834][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.27-02.01.33:841][682]LogEditorActor: Deleted 1 Actors (0.127 secs)
+[2021.11.27-02.01.38:512][868]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.01.43:933][891]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_1559F3B6624A5E6527A85442911464D0E7.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShot1_15.uasset'
+[2021.11.27-02.01.43:952][891]AssetCheck: New page: Asset Save: SequenceShot1_15
+[2021.11.27-02.01.43:952][891]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShot1_15.SequenceShot1_15
+[2021.11.27-02.02.01:865][  2]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_17.SequenceShot1_17
+[2021.11.27-02.02.13:162][178]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.13:666][179]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.14:776][183]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.15:278][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.16:337][188]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.17:446][193]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.17:949][194]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.19:163][198]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.19:665][199]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.20:666][203]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.21:168][204]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.22:349][208]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.25:596][304]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.26:811][309]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.27:313][310]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.28:361][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.29:609][319]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.30:825][324]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.32:156][329]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.32:657][330]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.33:871][334]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.35:226][339]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.35:727][340]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.36:710][344]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.38:037][349]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.38:539][350]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.39:699][354]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.40:202][355]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.41:149][359]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.42:169][364]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.42:671][365]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.43:881][369]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.45:228][374]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.46:460][379]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.47:800][384]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.48:302][385]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.49:189][389]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.50:630][394]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.52:157][399]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.53:372][404]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.54:578][409]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.55:081][410]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.56:025][414]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.57:336][419]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.58:630][424]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.02.59:132][425]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.00:361][429]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.00:863][430]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.01:363][430]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.02:364][434]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.02:868][435]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.04:083][439]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.04:585][440]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.05:582][444]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.06:083][445]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.07:190][449]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.07:693][450]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.08:193][450]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.09:312][454]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.09:815][455]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.10:980][459]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.11:481][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.12:675][464]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.13:178][465]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.14:422][469]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.14:924][470]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.03.16:309][474]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.04.14:067][771]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.04.14:569][772]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.04.15:558][776]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.15:348][990]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.15:849][991]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.16:916][995]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.36:407][878]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.37:593][883]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.38:128][884]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.39:407][888]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.39:930][889]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.42:141][  1]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.05.43:244][  6]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.10.04:108][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.11.27-02.10.04:296][320]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon_Auto2030AE42E4C0818321F7B0F86DBD341CC.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Autosaves/Game/Classroom/Maps/forenoon_Auto2.umap'
+[2021.11.27-02.10.04:303][320]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Classroom/Maps/forenoon' took 0.216
+[2021.11.27-02.10.04:303][320]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.216
+[2021.11.27-02.10.04:303][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics2/Shots/SequenceShot1_17] ([1] browsable assets)...
+[2021.11.27-02.10.04:303][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics2/Shots/SequenceShot1_17]
+[2021.11.27-02.10.04:318][320]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_17_Auto2AB116A994A0288E7D88CA49405ADC852.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Autosaves/Game/Cinematics2/Shots/SequenceShot1_17_Auto2.uasset'
+[2021.11.27-02.10.04:322][320]LogFileHelpers: Auto-saving content packages took 0.019
+[2021.11.27-02.10.05:252][324]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.10.34:671][406]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-02.10.34:687][406]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-02.10.34:687][406]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-02.10.34:687][406]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-02.10.34:687][406]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-02.10.34:687][406]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-02.10.34:687][406]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-02.10.34:687][406]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-02.10.34:687][406]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-02.10.37:088][411]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.27-02.10.37:099][411]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.27-02.10.37:099][411]LogAudioMixer: Display: 1: FrontRight
+[2021.11.27-02.10.37:099][411]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.27-02.10.37:099][411]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.27-02.10.37:099][411]LogAudioMixer: Display: 4: BackLeft
+[2021.11.27-02.10.37:099][411]LogAudioMixer: Display: 5: BackRight
+[2021.11.27-02.10.37:099][411]LogAudioMixer: Display: 6: SideLeft
+[2021.11.27-02.10.37:099][411]LogAudioMixer: Display: 7: SideRight
+[2021.11.27-02.11.26:372][655]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_17099513894A128C222489528C0EDE7690.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShot1_17.uasset'
+[2021.11.27-02.11.26:386][655]AssetCheck: New page: Asset Save: SequenceShot1_17
+[2021.11.27-02.11.26:386][655]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShot1_17.SequenceShot1_17
+[2021.11.27-02.11.33:818][748]Cmd: TRANSACTION UNDO
+[2021.11.27-02.11.33:818][748]LogEditorTransaction: Undo Edit Current Focal Length
+[2021.11.27-02.11.35:359][806]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.12.50:058][ 56]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.12.50:561][ 57]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.13.11:901][121]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.13.12:404][122]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.13.13:646][126]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.13.50:824][237]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.13.51:327][238]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.13.52:233][242]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.13:317][974]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.13:819][975]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.14:748][979]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.16:034][984]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.16:536][985]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.17:609][989]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.18:787][994]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.19:944][999]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.21:252][  4]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.21:755][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.22:744][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.23:246][ 10]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.24:375][ 14]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.24:878][ 15]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.25:377][ 15]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.26:237][ 19]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.27:543][ 24]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.28:046][ 25]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.28:941][ 29]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.29:443][ 30]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.30:370][ 34]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.30:872][ 35]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.31:778][ 39]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.32:280][ 40]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.33:197][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.33:699][ 45]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.34:279][ 45]Cmd: TRANSACTION UNDO
+[2021.11.27-02.14.34:279][ 45]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-02.14.35:160][ 49]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.35:660][ 49]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.36:744][ 54]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.42:648][ 88]Cmd: TRANSACTION UNDO
+[2021.11.27-02.14.42:648][ 88]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-02.14.44:138][137]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.14.57:159][263]Cmd: TRANSACTION UNDO
+[2021.11.27-02.14.57:159][263]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-02.14.58:681][319]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.08:037][394]Cmd: TRANSACTION UNDO
+[2021.11.27-02.15.08:037][394]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-02.15.08:778][420]Cmd: TRANSACTION UNDO
+[2021.11.27-02.15.08:778][420]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-02.15.09:323][423]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.10:766][427]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.15:555][662]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.16:058][663]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.16:371][664]LogRendererCore: Warning: Query 'Unaccounted' not ready.
+[2021.11.27-02.15.17:082][668]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.17:586][669]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.18:523][673]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.19:027][674]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.20:030][678]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.20:533][679]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.21:034][679]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.22:083][683]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.22:585][684]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.23:016][684]Cmd: TRANSACTION UNDO
+[2021.11.27-02.15.23:016][684]LogEditorTransaction: Undo Set Key Value
+[2021.11.27-02.15.23:923][688]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.24:423][688]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.25:496][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.47:426][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.47:929][762]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.48:793][766]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.49:296][767]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.15.50:440][771]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.16.12:673][688]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.16.13:178][689]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.16.14:353][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.16.17:601][711]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/MasterSequence.MasterSequence
+[2021.11.27-02.16.58:350][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.11.27-02.16.58:539][494]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/forenoonCAC84F6843C1E9860D41AAB27D5B3234.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Classroom/Maps/forenoon.umap'
+[2021.11.27-02.17.03:403][494]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon_BuiltDataD9CCD66B4FAEC2EF6754948D02DC0BC7.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Classroom/Maps/forenoon_BuiltData.uasset'
+[2021.11.27-02.17.03:460][494]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.27-02.17.03:461][494]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Classroom/Maps/forenoon_BuiltData.forenoon_BuiltData
+[2021.11.27-02.17.03:461][494]LogContentValidation: Display: Validating World /Game/Classroom/Maps/forenoon.forenoon
+[2021.11.27-02.17.04:335][498]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.17.28:599][572]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.17.29:101][573]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.17.30:357][577]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.17.30:857][577]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.18.08:768][795]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.18.09:958][800]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.27-02.18.13:351][821]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_7.SequenceShot1_7
