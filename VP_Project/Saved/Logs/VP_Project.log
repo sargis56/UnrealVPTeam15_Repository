@@ -2165,3 +2165,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.28-00.09.45:995][766]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.28-00.09.45:995][766]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShot1_5.SequenceShot1_5
 [2021.11.28-00.09.45:995][766]LogContentValidation: Display: Validating World /Game/Classroom/Maps/forenoon.forenoon
+[2021.11.28-00.11.53:740][632]LogContentBrowser: Attempting asset rename: SequenceShot1_18 -> SequenceShotPA_2
+[2021.11.28-00.11.53:912][632]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShotPA_2260E0C844F7897A4B8710B923D31067F.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShotPA_2.uasset'
+[2021.11.28-00.11.54:020][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.28-00.11.54:057][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.11.28-00.11.54:081][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.28-00.11.54:134][632]AssetCheck: New page: Asset Save: SequenceShotPA_2
+[2021.11.28-00.11.54:134][632]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShotPA_2.SequenceShotPA_2
+[2021.11.28-00.11.55:084][739]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShotPA_2.SequenceShotPA_2
+[2021.11.28-00.12.12:457][621]Cmd: TRANSACTION UNDO
+[2021.11.28-00.12.12:457][621]LogEditorTransaction: Undo Set Key Value
+[2021.11.28-00.12.26:149][134]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShotPA_2FDF1A84643CE31A83EE29B92236E58EE.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/Shots/SequenceShotPA_2.uasset'
+[2021.11.28-00.12.26:160][134]AssetCheck: New page: Asset Save: SequenceShotPA_2
+[2021.11.28-00.12.26:160][134]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/Shots/SequenceShotPA_2.SequenceShotPA_2
+[2021.11.28-00.12.30:752][619]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/Shots/SequenceShot1_1.SequenceShot1_1
+[2021.11.28-00.12.35:469][121]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics2/MasterSequence.MasterSequence
+[2021.11.28-00.13.41:182][437]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/MasterSequenceCF07D80E4D8110D2E544EABAD2E170CE.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/MasterSequence.uasset'
+[2021.11.28-00.13.41:196][437]AssetCheck: New page: Asset Save: MasterSequence
+[2021.11.28-00.13.41:196][437]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/MasterSequence.MasterSequence
+[2021.11.28-00.14.12:180][449]Cmd: TRANSACTION UNDO
+[2021.11.28-00.14.12:180][449]LogEditorTransaction: Undo Rotate Actors
+[2021.11.28-00.14.29:056][954]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/MasterSequence0A1B5F24463F4FE8763538823191C7DA.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/MasterSequence.uasset'
+[2021.11.28-00.14.29:069][954]AssetCheck: New page: Asset Save: MasterSequence
+[2021.11.28-00.14.29:069][954]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/MasterSequence.MasterSequence
+[2021.11.28-00.15.57:329][143]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/MasterSequence0E82293F4F8A1E78534A69B04B17BFBE.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Cinematics2/MasterSequence.uasset'
+[2021.11.28-00.15.57:343][143]AssetCheck: New page: Asset Save: MasterSequence
+[2021.11.28-00.15.57:343][143]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics2/MasterSequence.MasterSequence
+[2021.11.28-00.16.15:941][123]LogSlate: Took 0.075387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.28-00.17.30:984][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FB)
+[2021.11.28-00.17.32:771][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FBBOX)
+[2021.11.28-00.18.16:034][169]LogActorFactory: Actor Factory created Platform_SM
+[2021.11.28-00.18.17:024][228]LogActorFactory: Actor Factory created Platform_SM
+[2021.11.28-00.18.17:417][259]Cmd: TRANSACTION UNDO
+[2021.11.28-00.18.17:417][259]LogEditorTransaction: Undo Create Actors
+[2021.11.28-00.18.29:176][874]LogActorFactory: Actor Factory created Eraser_SM
+[2021.11.28-00.18.30:086][934]LogActorFactory: Actor Factory created Eraser_SM
+[2021.11.28-00.19.01:431][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lockers_02_A_SM)
+[2021.11.28-00.19.02:326][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_d)
+[2021.11.28-00.19.53:661][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Eraser_SM)
+[2021.11.28-00.19.54:123][618]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2021.11.28-00.19.54:445][647]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2021.11.28-00.20.24:829][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lockers_02_A_SM)
+[2021.11.28-00.21.19:494][231]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (MainCharacter)
+[2021.11.28-00.21.43:151][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Eraser_SM)
+[2021.11.28-00.22.53:830][147]Cmd: TRANSACTION UNDO
+[2021.11.28-00.22.53:830][147]LogEditorTransaction: Undo Replace component used material
+[2021.11.28-00.22.59:136][484]Cmd: TRANSACTION UNDO
+[2021.11.28-00.22.59:136][484]LogEditorTransaction: Undo Replace component used material
+[2021.11.28-00.23.25:479][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.11.28-00.23.25:672][696]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon_Auto5FBE02C984F4CC62BC01EB1AD4921C0BA.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Autosaves/Game/Classroom/Maps/forenoon_Auto5.umap'
+[2021.11.28-00.23.25:682][696]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Classroom/Maps/forenoon' took 0.253
+[2021.11.28-00.23.25:682][696]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.253
+[2021.11.28-00.23.25:682][696]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics2/Shots/SequenceShot1_14] ([1] browsable assets)...
+[2021.11.28-00.23.25:682][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics2/Shots/SequenceShot1_14]
+[2021.11.28-00.23.25:701][696]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/SequenceShot1_14_Auto5E978A654481DCF0929215BBD852C4A8C.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/Autosaves/Game/Cinematics2/Shots/SequenceShot1_14_Auto5.uasset'
+[2021.11.28-00.23.25:703][696]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.11.28-00.23.45:784][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Eraser_SM)
+[2021.11.28-00.23.46:608][200]Cmd: DELETE
+[2021.11.28-00.23.46:608][200]Cmd: ACTOR DELETE
+[2021.11.28-00.23.46:673][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.28-00.23.46:696][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.11.28-00.23.46:699][200]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2021.11.28-00.23.47:565][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.11.28-00.23.47:746][292]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon3A5C22E24A73D4F9CCC2599F1C259F37.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Classroom/Maps/forenoon.umap'
+[2021.11.28-00.23.52:267][292]LogSavePackage: Moving '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Saved/forenoon_BuiltData27F301554F272428BB273C8267E2B29A.tmp' to '../../../../../../Users/sargi/Desktop/School/Sem 3/GAME ENGINES 2/Film Collab/UnrealVPTeam15_Repository/VP_Project/Content/Classroom/Maps/forenoon_BuiltData.uasset'
+[2021.11.28-00.23.52:314][292]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.28-00.23.52:314][292]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Classroom/Maps/forenoon_BuiltData.forenoon_BuiltData
+[2021.11.28-00.23.52:314][292]LogContentValidation: Display: Validating World /Game/Classroom/Maps/forenoon.forenoon
